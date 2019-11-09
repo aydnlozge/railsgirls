@@ -19,7 +19,7 @@ th { border-bottom: 1px solid #DDD; }
 
 .navbar {
   min-height: 38px;
-  background-color: ##a4e2c6 !important;
+  background-color: ##a4e2c6;
 }
 .navbar a.brand { font-size: 18px; }
 .navbar a.brand:hover {
