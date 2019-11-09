@@ -16,3 +16,14 @@
 footer { margin-top: 100px; }
 table, td, th { vertical-align: middle; border: none; }
 th { border-bottom: 1px solid #DDD; }
+
+.navbar {
+  min-height: 38px;
+  background-color: ##a4e2c6 !important;
+}
+.navbar a.brand { font-size: 18px; }
+.navbar a.brand:hover {
+ color: ##ff2121;
+ background-color: transparent;
+ text-decoration: none;
+}
